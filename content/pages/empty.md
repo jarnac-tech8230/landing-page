@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: construct
+title: Home
 sections: []
 slug: empty
 isDraft: false
